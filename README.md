@@ -9,5 +9,6 @@ import data from the webscraper to a postgresql database.
 
 
 ## Coming soon:
+- Adding Crossfit Open 2016 Scores
 - Command Line Interface to grab targeted team/athelete data.
 - More docs
